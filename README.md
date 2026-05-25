@@ -34,6 +34,8 @@
 
 <br>
 
+---
+
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
@@ -42,6 +44,8 @@
 | **WPDeveloper**        | **Junior WordPress Developer**    | **WordPress Solution & Plugin Maintain** | **2018-06 — 2019-09** |
 
 <br>
+
+---
 
 ## 📝 Recent Blog Posts & Publications
 - [JavaScript in a Nutshell](https://maxrohowsky.com/blog/javascript-in-a-nutshell)
@@ -54,10 +58,16 @@
 
 <br>
 
+---
+
 ### ✨ Random Quote:
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=auto&animation=fade_in_out&quoteCategory=programming?border=true">
+    <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=fade_in_out&quoteCategory=programming?border=true">
 </a>
+
+</br>
+
+---
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
