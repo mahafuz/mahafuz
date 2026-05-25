@@ -8,26 +8,25 @@
   <em>Backend Engineering, Infrastructure, Docker, Databases, Networking, and Scalable Systems.</em>
 </p>
 
-<h2 align="center">Find Me</h2>
-
 <p align="center">
-  <a href="https://www.youtube.com/@phpjunky">
-    <img src="/assets/youtube.png" alt="YouTube" width="50" height="50">
+  <a href="https://www.youtube.com/@phpjunky" style="display: inline-block">
+    <img src="/assets/youtube.png" alt="YouTube">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mahafuzur-rahaman/">
-    <img src="/assets/linkedin.png" alt="LinkedIn" width="50" height="50">
+  <a href="https://www.linkedin.com/in/mahafuzur-rahaman/" style="display: inline-block">
+    <img src="/assets/linkedin.png" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mahafuzDevs">
-    <img src="/assets/twitter.png" alt="Twitter" width="50" height="50">
+  <a href="https://x.com/mahafuzDevs" style="display: inline-block">
+    <img src="/assets/twitter.png" alt="Twitter">
   </a>
 </p>
 
 
 ---
 
-<h2><img src="/assets/key-projects.png" alt="Key Projects" width="40" height="40"> Key Projects</h2>
+## 🚀 Key Projects
+
 
 |            Repository               |                      Link           |      Description                     |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------  |
