@@ -1,9 +1,7 @@
-<!-- ![banner](https://raw.githubusercontent.com/MaxRohowsky/maxrohowsky/refs/heads/main/assets/GitHub-Banner.png) -->
-
+<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="100" height="100" align="center"/>
 <h1 align="center">
     Builder. Systems thinker. Developer. Shipping Real Products
 </h1>
-
 <p align="center">
   <em>Backend Engineering, Infrastructure, Docker, Databases, Networking, and Scalable Systems.</em>
 </p>
@@ -44,48 +42,9 @@
 - [My Core Beliefs](https://maxrohowsky.com/blog/my-core-beliefs)
 - [How Does the Internet Work?](https://maxrohowsky.com/blog/how-the-internet-works)
 
-
-
-## My Lifecycle
-<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="250" align="right"/>
-
-```kotlin
-fun main() {
-    while (Alive) {
-        code()
-		fixBugs()
-		loveKotlin()
-        sleep()
-        repeat()
-    }
-}
-
-```
-
-
 <br>
-
-
-
 <br>
-
-
-## 🎖️ My Statistics:
-<h3>Coding Time:</h3>
-<img src="https://encept-github-status.vercel.app/api/wakatime?username=@karim_eg&theme=transparent" alt="Karim's WakaTime stats" />
-
-<details><summary>Show All Statistics</summary>
- 	<h3>Top Languages:</h3>
-	<img src="https://encept-github-status.vercel.app/api/top-langs?username=karim-eg&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="karim-eg" />
-	<br><br>
- 	<h3>Github Stats:</h3>
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="karim-eg's Github Stats" src="https://encept-github-status.vercel.app/api?username=karim-eg&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
-	</a>
-	<br><br>
- 	<h3>My Streak:</h3>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-eg&theme=transparent" alt="karim" />
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahafuz&theme=solarized" alt="mystreak"/>
 
 
 <br>
@@ -95,8 +54,6 @@ fun main() {
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming?border=true">
 </a>
-
-[![committers.top badge](https://user-badge.committers.top/egypt_private/karim-eg.svg)](https://user-badge.committers.top/egypt_private/karim-eg)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
