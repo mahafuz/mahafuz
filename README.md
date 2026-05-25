@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="100" height="100"/></h2>
 <h1 align="center">
-    Builder. Systems thinker. Developer. Shipping Real Products
+    Builder . Developer . Systems thinker . Shipping Real Products
 </h1>
 <p align="center">
   <em>Backend Engineering, Infrastructure, Docker, Databases, Networking, and Scalable Systems.</em>
