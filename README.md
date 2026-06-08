@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-    <a href="blob:system/264723b1-4d56-4735-b3b9-2b236a2ec86d" target="_blank">
+    <a href="https://github.com/mahafuz/mahafuz/blob/main/mahafuzur_rahaman_resume.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Resume-brightgreen?style=for-the-badge&logo=readdotcv"/>
     </a>
     <a href="https://www.linkedin.com/in/mahafuzur-rahaman" target="_blank">
