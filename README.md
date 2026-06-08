@@ -4,14 +4,15 @@
 </h1>
 <p align="center">
     <em>Backend Engineering, Infrastructure, Docker, Databases, Networking, and Scalable Systems.</em>
-    </br>
-    <a href="./mahafuzur_rahaman_resume.pdf">View My Resume</a> 
 </p>
 
 
 <h2 align="center">
+    <a href="./mahafuzur_rahaman_resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/-Resume-brightgreen?style=for-the-badge&logo=readdotcv"/>
+    </a>
     <a href="https://www.linkedin.com/in/mahafuzur-rahaman" target="_blank">
-        <img src="https://img.shields.io/badge/Mahafuz%20Rahaman-0077B5?style=for-the-badge&logo=Linkedin"/>
+        <img src="https://img.shields.io/badge/-%20Linkedin-0077B5?style=for-the-badge"/>
     </a>
     <a href="mailto:m.mahfuz.me@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-m.mahfuz.me@gmail.com-0077B5?style=for-the-badge&logo=Gmail"/>
