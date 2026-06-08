@@ -17,6 +17,12 @@
     <a href="mailto:m.mahfuz.me@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-m.mahfuz.me@gmail.com-0077B5?style=for-the-badge&logo=Gmail"/>
     </a>
+    <a href="https://medium.com/@mahafuz" target="_blank">
+        <img src="https://img.shields.io/badge/medium@mahafuz-0077B5?style=for-the-badge&logo=medium"/>
+    </a>
+    <a href="https://dev.to/mahafuz" target="_blank">
+        <img src="https://img.shields.io/badge/dev.to@mahafuz-0077B5?style=for-the-badge&logo=devdotto"/>
+    </a>
     </br>
     </br>
     <img src="https://skillicons.dev/icons?i=php,js,nodejs,mysql,mongodb,sqlite,bash,html,css,wordpress,laravel,django" />
@@ -51,9 +57,13 @@
 ---
 
 ## 📝 Recent Blog Posts & Publications
-- [JavaScript in a Nutshell](https://maxrohowsky.com/blog/javascript-in-a-nutshell)
-- [My Core Beliefs](https://maxrohowsky.com/blog/my-core-beliefs)
-- [How Does the Internet Work?](https://maxrohowsky.com/blog/how-the-internet-works)
+- [Rethinking JavaScript as a Planned Runtime](https://mahafuz.medium.com/rethinking-javascript-as-a-planned-runtime-0a7683635b9e)
+- [SSH Under the Hood: Protocols, Mechanisms, and the Full Technical Story](https://mahafuz.medium.com/ssh-under-the-hood-protocols-mechanisms-and-the-full-technical-story-4366c3a3cad6)
+- [SSH Config File Mastery: Turning `~/.ssh/config` Into a Productivity Tool](https://mahafuz.medium.com/ssh-config-file-mastery-turning-ssh-config-into-a-productivity-tool-b16dd2e6ef9d)
+- [Stop Prompting. Start Specifying: How Spec-Driven Development Fixes AI Coding](https://mahafuz.medium.com/stop-prompting-start-specifying-how-spec-driven-development-fixes-ai-coding-fd7bdfc8172d)
+- [SSH in 2026: Why Every Developer Should Know It Cold](https://mahafuz.medium.com/ssh-in-2026-why-every-developer-should-know-it-cold-7dee40a34953)
+- [🚀 Crafting My Developer Workflow: VSCode, Vim, and Zsh](https://mahafuz.medium.com/crafting-my-developer-workflow-vscode-vim-and-zsh-f6d0d7625533)
+- [Understanding Type Juggling in PHP](https://mahafuz.medium.com/understanding-type-juggling-in-php-48347f929aa0)
 
 <br>
 
