@@ -3,8 +3,9 @@
     Builder . Developer . Systems thinker . Shipping Real Products
 </h1>
 <p align="center">
-  <em>Backend Engineering, Infrastructure, Docker, Databases, Networking, and Scalable Systems.</em>
-    <em>[My Resume](./mahafuzur_rahaman_resume.pdf)</em>
+    <em>Backend Engineering, Infrastructure, Docker, Databases, Networking, and Scalable Systems.</em>
+    </br>
+    <a href="./mahafuzur_rahaman_resume.pdf">View My Resume</a> 
 </p>
 
 
