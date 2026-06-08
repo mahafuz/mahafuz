@@ -4,6 +4,7 @@
 </h1>
 <p align="center">
   <em>Backend Engineering, Infrastructure, Docker, Databases, Networking, and Scalable Systems.</em>
+    <em>[My Resume](./mahafuzur_rahaman_resume.pdf)</em>
 </p>
 
 
@@ -66,11 +67,5 @@
 </a>
 
 </br>
-
----
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
